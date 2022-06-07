@@ -13,9 +13,9 @@ I am a fairly goal-oriented person and always try to achieve my goal. I can also
 
 ## Skills
 * __HTML, CSS:__ (Basic)
-* __Figma:__ [progect](https://sun2.beltelecom-by-minsk.userapi.com/s/v1/if2/C47Sb_RATj2kejCtAZJGR8_42i_PXMY8QyjYmY1KqgZOJvQ8mo71PXllc7T54oGpMro7aY_IdaItSY9X6wQnGHU0.jpg?size=1280x800&quality=95&type=album)
+* __Python:__ 
 * __Git__
-## Aducation
+## Education
 Education
 basic education (9 grades, then I study at school)
 
